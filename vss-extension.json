@@ -1,0 +1,88 @@
+{
+    "manifestVersion": 1.0,
+    "id": "gitsense",
+    "version": "1.0.0",
+    "name": "GitSense",
+    "description": "Boost developer productivity with always relevant searches, advanced history browsing, smarter code reviews and more.",
+    "public": false,
+    "publisher": "gitsense",
+    "baseUri": "https://public.gitsense.com",
+    "icons": {
+        "default": "img/gitsense-sq-icon-128.png"
+    },
+    "categories": [
+        "Code"
+    ],
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "tags": [
+        "Search",
+        "Analytics",
+        "Insights",
+        "Productivity",
+        "Collaboration",
+        "Code",
+        "Commits",
+        "Diffs",
+        "Compare",
+        "Code review" 
+    ],
+    "content": {
+        "details": {
+            "path": "overview.md"
+        }
+    },
+    "contributions": [
+        {
+            "id": "gitsense-hub-group",
+            "type": "ms.vss-web.hub-group",
+            "description": "GitSense",
+            "targets": [
+                "ms.vss-web.project-hub-groups-collection"
+            ],
+            "properties": {
+                "name": "GitSense",
+                "order": 100
+            }
+        },
+        {
+            "id": "insights-main",
+            "type": "ms.vss-web.hub",
+            "description": "GitSense",
+            "targets": [
+                ".gitsense-hub-group"
+            ],
+            "properties": {
+                "name": "Insights",
+                "order": 100,
+                "uri": "/insight?vte=true"
+            }
+        },
+        {
+            "id": "code-insight",
+            "type": "ms.vss-web.hub",
+            "description": "GitSense",
+            "targets": [
+                "ms.vss-code-web.code-hub-group"
+            ],
+            "properties": {
+                "name": "Insights",
+                "order": 100,
+                "uri": "/insight?vte=true&hub=true"
+            }
+        }
+    ],
+    "files": [
+        {
+            "path": "img",
+            "addressable": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/gitsense/vsts-ext"
+    }
+}
