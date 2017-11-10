@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1.0,
     "id": "gitsense",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "GitSense",
-    "description": "Boost developer productivity with always relevant searches, advanced history browsing, smarter code reviews and more.",
-    "public": false,
+    "description": "Boost developer productivity and work better together, with always relevant searches, smarter code reviews and more.",
+    "public": true,
     "publisher": "gitsense",
     "baseUri": "https://public.gitsense.com",
     "icons": {

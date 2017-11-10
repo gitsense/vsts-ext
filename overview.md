@@ -2,9 +2,13 @@
 
 Git novice or expert, GitSense can help you find answers faster with always relevant searches, advanced history browsing, smarter code reviews, and more.
 
+### GitSense in 5 minutes
+
+[Watch how easy it is to compare and analyze branches with GitSense in VSTS](https://www.youtube.com/watch?v=a4Qu5wbVqfs)
+
 ## Always relevant searches
 
-Search for code, commits, and diffs on any branch, from any repository - in any combination.  With GitSense, you no longer have to question and double check search results for branch relevance.  With GitSense, you will always know.
+Search for code, commits, and diffs on any branch, from any repository - in any combination.  With GitSense, you no longer have to question or double check search results for branch relevance.  With GitSense, you will always know.
 
 * [Compare searching with and without GitSense](https://gitsense.com/index.html#compare-search)
 * Try searching for [commits](https://public.gitsense.com/insight/github?r=Microsoft/vscode#b%3Dgithub%3AMicrosoft%2Fvscode%3Amaster%26q%3Dlang%3Ajavascript%5E_%5Elang%3Atypescript%26t%3Dcommits), [code](https://public.gitsense.com/insight/github?r=tensorflow/tensorflow#h%3Dgithub%26b%3Dgithub%3Atensorflow%2Ftensorflow%3Amaster%26q%3DTF_TensorData%5E_%5Ecs%3Atrue%5E_%5Elang%3Acpp%5E_%5Epath%3Atensorflow%2Fc%2F*%26t%3Dcode%26p%3Danalysis) and [diffs](https://public.gitsense.com/insight/github?r=vuejs/vue#b%3Dgithub%3Avuejs%2Fvue%3Adev%26q%3DgetFirstComponentChild%5E_%5Epath%3Asrc%2F*%26t%3Ddiffs) with GitSense
@@ -13,7 +17,7 @@ Search for code, commits, and diffs on any branch, from any repository - in any 
 
 ## Advanced browsing
 
-Browse multiple repositories, branches, commits and pull requests at once. Browsing any other way, will seem antiquated, once you've tried multi-browsing with GitSense.
+Stop jumping around with GitSense multi-browsing, which supports browsing multiple repositories, branches, commits and pull requests at once. Browsing any other way, will seem antiquated, once you've tried multi-browsing with GitSense.
 
 * Try browsing multiple [repositories](https://public.gitsense.com/insight/github?r=electron/electron::atom/atom::Microsoft/vscode), [branches](https://public.gitsense.com/insight/gitlab?r=gitlab-org/gitlab-ce::gitlab-org/gitlab-ee#b%3Dgitlab%3Agitlab-org%2Fgitlab-ce%3Amaster%3A%3Agitlab%3Agitlab-org%2Fgitlab-ee%3Amaster%26t%3Dcommits), [commits](https://public.gitsense.com/insight/github?r=rails/rails#b%3Dgithub%3Arails%2Frails%3Amaster%26q%3Dcommit%3A13c5aa818e%5E_%5Ecommit%3A65e08da68f%5E_%5Ecommit%3Aaa0865a8f0%26t%3Dchganalysis%26rg%3Dhistory) and [pulls](https://public.gitsense.com/insight/github?r=angular%2Fangular.js%3A%3Aangular%2Fangular#q%3Dpom%3A20196%5E_%5Epom%3A18879%5E_%5Epom%3A16192%5E_%5Estate%3Amerged%5E_%5Estate%3Aopen%26p%3Dipom) at once
 
