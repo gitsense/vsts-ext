@@ -1,9 +1,9 @@
 {
     "manifestVersion": 1.0,
     "id": "gitsense",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "GitSense",
-    "description": "Boost developer productivity and work better together, with always relevant searches, smarter code reviews and more.",
+    "description": "Boost developer productivity and work better together, with always relevant searches, advanced Git browsing, smarter code reviews and more.",
     "public": true,
     "publisher": "gitsense",
     "baseUri": "https://public.gitsense.com",
@@ -28,7 +28,8 @@
         "Commits",
         "Diffs",
         "Compare",
-        "Code review" 
+        "Code review",
+        "Pull requests"
     ],
     "content": {
         "details": {
