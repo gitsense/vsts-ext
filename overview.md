@@ -1,4 +1,4 @@
-**[GitSense](https://gitsense.com)** greatly enhances the search, analytics and code review capabilities in VSTS. With GitSense, you can:
+**[GitSense](https://gitsense.com)** greatly enhances search, analytics and code review capabilities in VSTS. With GitSense, you can:
 
 * Search for code, commits, and diffs on any branch, from any repository - in any combination.
 * Search for pull requests by assignees, code contributors, and more.
