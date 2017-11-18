@@ -16,7 +16,7 @@ Developer or manager, Git novice or expert, GitSense can help you and your team,
 
 ## Develop smarter. Develop faster.
 
-Get more done with smarter searches, better browsing and uniquely GitSense analytics
+Get more done with smarter searches, better browsing and powerful GitSense analytics
 
 ### Search smarter
 
