@@ -1,23 +1,24 @@
-**[GitSense](https://gitsense.com)** greatly enhances search, analytics and code review capabilities in VSTS. With GitSense, you can:
+**[GitSense](https://gitsense.com)** makes searching, analyzing and reviewing code in VSTS better. 
+
+With GitSense, you can:
 
 * Search for code, commits, and diffs on any branch, from any repository - in any combination.
-* Search for pull requests by assignees, code contributors, and more.
-* Browse and share multiple repositories, branches, commits, and pull requests at once.
-* Never forget what was reviewed
+* Search for pull requests by files, code contributors, and more.
+* Point and click to compare and analyze changes across repositories, branches, commits, and files.
 
-and more.
+and a lot more.
 
-Git novice or expert, developer or manager, GitSense can help you and your team, to work smarter and faster, together. 
+Developer or manager, Git novice or expert, GitSense can help you and your team, to work smarter and faster, together
 
-### GitSense in 5 minutes
+### See what a difference can make
 
 [Watch how easy it is to compare and analyze branches with GitSense in VSTS](https://www.youtube.com/watch?v=a4Qu5wbVqfs)
 
-# Develop smarter. Develop faster.
+## Develop smarter. Develop faster.
 
-Get more done with smarter searches, better browsing and instant Git insights
+Get more done with smarter searches, better browsing and uniquely GitSense analytics
 
-## Search smarter
+### Search smarter
 
 Search for code, commits, diffs, and pull requests on any branch, from any repository - in any combination.  With GitSense, you no longer have to question or double check search results for branch relevance.  With GitSense, you will always know.
 
@@ -26,7 +27,7 @@ Search for code, commits, diffs, and pull requests on any branch, from any repos
 
 ![Always relevant searches](img/always-relevant-searches-shadow.png)
 
-## Browse better
+### Browse better
 
 Browse efficiently and communicate more effectively, with advanced GitSense multi-browsing.  Browse and and share multiple repositories, branches, commits and pull/merge requests at once.  Working any other way, will seem antiquated, once you've tried multi-browsing with GitSense.
 
@@ -34,16 +35,16 @@ Browse efficiently and communicate more effectively, with advanced GitSense mult
 
 ![Advanced browsing](img/advanced-browsing-clipped-shadow.png)
 
-## Analyze with ease
+### See more
 
-Making sense of your codes history couldn't be easier.  Just point and click to compare and analyze changes across repositories, branches, commits and file revisions.  And for instant insight, execute an always relevant search, to help put changes into context.
+Making sense of your codes history couldn't be easier.  Just point and click to compare and analyze changes across repositories, branches, commits and file revisions.  And for greater insight, execute an always relevant search, to help put changes into context.
 
 * [Watch how easy it is to compare and analyze with GitSense](https://www.youtube.com/watch?v=a4Qu5wbVqfs)
 * [Try it yourself](https://public.gitsense.com/insight/github?r=golang/go#b%3Dgithub%3Agolang%2Fgo%3Amaster%3A%3Agithub%3Agolang%2Fgo%3Arelease-branch.go1.9%3A%3Agithub%3Agolang%2Fgo%3Arelease-branch.go1.8%26t%3Dcommits)
 
 ![Compare and analyze](img/compare-and-analyze-shadow.png)
 
-# Review smarter. Review better, together
+## Review smarter. Review better, together
 
 Speed up code reviews with always relevant searches, at the glance metrics, and more
 
