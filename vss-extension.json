@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1.0,
     "id": "gitsense",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "GitSense",
     "description": "Boost developer productivity and work better together, with always relevant searches, advanced Git browsing, smarter code reviews and more.",
     "public": true,
