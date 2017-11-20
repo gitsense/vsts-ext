@@ -1,4 +1,4 @@
-**[GitSense](https://gitsense.com)** makes searching, analyzing and reviewing code in VSTS better. 
+**[GitSense](https://gitsense.com)** helps boost productivity with smarter searches, better browsing and insightful analytics.
 
 With GitSense, you can:
 
