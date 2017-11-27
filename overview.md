@@ -6,13 +6,20 @@ With GitSense, you can:
 * Search for pull requests by files, code contributors, and more.
 * Point and click to compare and analyze changes across repositories, branches, commits, and files.
 
-and a lot more.
+and a lot more. 
 
 Developer or manager, Git novice or expert, GitSense can help you and your team, to work smarter and faster, together
 
-### See what a difference can make
+## Search comparison
 
-[Watch how easy it is to compare and analyze branches with GitSense in VSTS](https://www.youtube.com/watch?v=a4Qu5wbVqfs)
+[Searching for commits, code, diffs and pull requests with GitSense, just makes sense](https://gitsense.com/index.html#compare-search)
+
+
+## Quick example
+
+Watch how easy it is to compare and analyze branches in VSTS with GitSense
+
+[![Comparing and analzying branches with GitSense](img/compare-and-analyze-youtube.png)](https://www.youtube.com/watch?v=a4Qu5wbVqfs)
 
 ## Develop smarter. Develop faster.
 
