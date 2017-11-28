@@ -6,7 +6,7 @@ With GitSense:
 * You can search for commits, by more than ids. You can search for commits by title, message, files changed, authors, and much more.
 * You can instantly find code changes on any branch, from any repository, with a GitSense diffs search.
 * You can search for pull requests, not only by creator, assignee and id.  You can search by files changed, code contributors, target branches, and more.
-* You no longer have to jump around, to track and review commits and pulls from different repositories.  With GitSense, you can review multiple repositories, branches, commits and pull requests, all at once.  
+* You no longer have to jump around, to track and review commits and pull requests from different repositories.  With GitSense, you can review multiple repositories, branches, commits and pull requests, all at once.  
 
 and a lot more. 
 
