@@ -1,9 +1,9 @@
-**[GitSense](https://gitsense.com)**, makes searching, analyzing, and reviewing code and code history in VSTS better.
+**[GitSense](https://gitsense.com)** helps boosts productivity with smarter searches, better browsing and insightful analytics.
 
 With GitSense:
 
-* You can search more than 5 branches per repository. With GitSense, you can search any branch, from any repository - in any combination.
-* You can search for commits, by more than ids. You can search for commits by title, message, files changed, authors, and much more.
+* You are no longer limited, to how many branches you can search and analyze.  With GitSense, you can search and analyze any branch, from any repository - in any combination.
+* You can now search for commits, not only by id, but by title, message, files changed, authors, and much more.
 * You can instantly find code changes on any branch, from any repository, with a GitSense diffs search.
 * You can search for pull requests, not only by creator, assignee and id.  You can search by files changed, code contributors, target branches, and more.
 * You no longer have to jump around, to track and review commits and pull requests from different repositories.  With GitSense, you can review multiple repositories, branches, commits and pull requests, all at once.  
@@ -15,7 +15,6 @@ Developer or manager, Git novice or expert, GitSense can help you and your team,
 ## Search comparison
 
 [Searching for commits, code, diffs and pull requests with GitSense, just makes sense](https://gitsense.com/index.html#compare-search)
-
 
 ## Quick example
 
